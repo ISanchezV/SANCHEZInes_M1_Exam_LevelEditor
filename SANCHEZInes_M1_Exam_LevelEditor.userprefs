@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Demo\readme.txt">
+    <Files>
+      <File FileName="Assets\Scripts\GameControl.cs" Line="43" Column="24" />
+      <File FileName="Assets\Scripts\DragDrop.cs" Line="44" Column="39" />
+      <File FileName="Assets\Scripts\Plat1\IsGrounded.cs" Line="26" Column="8" />
+      <File FileName="Assets\Scripts\Plat1\NewController.cs" Line="99" Column="8" />
+      <File FileName="Assets\Unity Save Load Utility\SaveLoad.cs" Line="241" Column="3" />
+      <File FileName="Assets\Unity Save Load Utility\Readme\USLU_QuickStart.html" Line="13" Column="11" />
+      <File FileName="Demo\readme.txt" Line="36" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
